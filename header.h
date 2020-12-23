@@ -1,3 +1,4 @@
+prova
 #include <string>
 
 class classeProva
@@ -9,3 +10,4 @@ public:
 	const double sqrt2 = 2.71;
 
 };
+
