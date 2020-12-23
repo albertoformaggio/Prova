@@ -1,1 +1,5 @@
-#include "header.h"
+class classeProva
+{
+public:
+	int a;
+};
