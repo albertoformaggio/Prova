@@ -9,6 +9,5 @@ public:
 	const double e = 2.79;
 	const std::string = "ciao";
 	const int sqrt3 = 2;
-
 };
 
