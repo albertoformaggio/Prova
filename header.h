@@ -6,6 +6,6 @@ private:
 	string s;
 public:
 	int a;
-	const double pi = 3.14;
+	const double sqrt2 = 2.71;
 
 };
