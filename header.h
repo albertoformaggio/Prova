@@ -8,7 +8,11 @@ private:
 public:
 	const double e = 2.79;
 	int a;
-	const double sqrt2 = 2.71;
+	const double nepero = 2.71828182845;
+	explicit classeProva(string r)
+	{
+		s = r; 
+	}
 
 };
 
