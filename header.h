@@ -8,7 +8,7 @@ private:
 public:
 	const double e = 2.79;
 	int a;
-	const double sqrt2 = 2.71;
+	const double sqrt3 = 2.71;
 
 };
 
